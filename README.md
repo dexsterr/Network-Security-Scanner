@@ -41,20 +41,6 @@ A simple and practical network security scanner in Python with a user-friendly i
 - `scapy`
 - Nmap installed and added to PATH
 
-## Installation
-
-```bash
-pip install python-nmap scapy
-```
-Download and install Nmap from [https://nmap.org/download.html](https://nmap.org/download.html).
-
-## Running
-
-```bash
-python scanner.py
-```
-Run as administrator/root for full functionality.
-
 ## Security recommendations
 
 - Use only on networks you are authorized to scan.
@@ -104,20 +90,6 @@ Prosty i praktyczny skaner bezpieczeństwa sieci z graficznym interfejsem, napis
 - `scapy`
 - Zainstalowany Nmap (dodany do PATH)
 
-## Instalacja
-
-```bash
-pip install python-nmap scapy
-```
-Pobierz i zainstaluj Nmap: [https://nmap.org/download.html](https://nmap.org/download.html)
-
-## Uruchomienie
-
-```bash
-python scanner.py
-```
-Uruchom jako administrator/root dla pełnej funkcjonalności.
-
 ## Zalecenia bezpieczeństwa
 
 - Używaj tylko w sieciach, do których masz uprawnienia.
@@ -130,10 +102,3 @@ Uruchom jako administrator/root dla pełnej funkcjonalności.
 **Projekt pokazuje praktyczne umiejętności z zakresu bezpieczeństwa i analizy sieci.**
 
 ---
-
-**Tags:**  
-<<<<<<< HEAD
-`Python` `Nmap` `Scapy` `Tkinter` `Cybersecurity`
-=======
-`Python` `Nmap` `Scapy` `Tkinter` `Cybersecurity`
->>>>>>> bc6a506669d0b79b792cfbd1aa0a275ae198b7e8
